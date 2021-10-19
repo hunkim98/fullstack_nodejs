@@ -1,7 +1,5 @@
-# This is zerowaste repository
+# React(Typescript) + Node js skeleton
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Usage
 
-## Available Scripts
-
-In this project, we use node js and typescript react to build a user experience based website
+I created this to use as a skeleton for starting a fullstack project. To use this as a skeleton for your own fullstack project, fork this repository and create your onw project
